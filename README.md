@@ -1,6 +1,6 @@
 # LearnExpress Database
 
-Este é uma projeto pessoal de um banco de dados usando `PostgreSQL`para gerenciar uma plataforma de cursos online. O esquema foi desenvolvido com base em um modelo EER (Tmbém criado por mim) e inclui tabelas como `usuario`, `curso`, `pedido`, `certificado`, entre outras.
+Este é uma projeto pessoal de um banco de dados usando `PostgreSQL`para gerenciar uma plataforma de cursos online. O esquema foi desenvolvido com base em um modelo EER (Também criado por mim) e inclui tabelas como `usuario`, `curso`, `pedido`, `certificado`, entre outras.
 Este projeto aborda aspectos fundamentais de banco de dados, incluindo modelagem de dados, relacionamentos entre entidades e funcionalidades específicas de uma plataforma de cursos online.
 
 ## Estrutura do Projeto
